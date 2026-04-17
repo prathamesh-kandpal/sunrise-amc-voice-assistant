@@ -1,0 +1,50 @@
+{
+  "transcript_path": "C:\\Users\\Prathamesh Kandpal\\Desktop\\HDFC Assignment\\SunriseAMC_FAQ\\output\\transcripts\\transcript_20260417_173642.json",
+  "transcript_text": "Hi, I recently invested in an equity mutual fund through my SIP. I want to know, if I redeem my units after 14 months, how will my gains be taxed? And will any TDS be deducted?",
+  "answer": {
+    "query": "Hi, I recently invested in an equity mutual fund through my SIP. I want to know, if I redeem my units after 14 months, how will my gains be taxed? And will any TDS be deducted?",
+    "answer": "Since you're holding your equity mutual fund units for more than 12 months, your gains will be taxed as Long-Term Capital Gains (LTCG) at 12.5% on gains exceeding Rs. 1.25 lakh in a financial year.\n\nSources: Q9, Q10",
+    "cited_faq_numbers": [
+      9,
+      10
+    ],
+    "retrieved_chunks": [
+      {
+        "chunk_id": "faq-9-chunk-0",
+        "distance": 0.6331382497487944,
+        "text": "FAQ Q9: What is the tax treatment on equity mutual fund gains?\nSection: Taxation\nAnswer: As per current tax laws (FY 2025-26): Short-Term Capital Gains (STCG) \u2014 for units held less than 12 months \u2014 are taxed at 20%. Long-Term Capital Gains (LTCG) \u2014 for units held 12 months or more \u2014 are taxed at 12.5% on gains exceeding Rs. 1.25 lakh in a financial year. No indexation benefit is available for equity funds. Note: Tax laws are subject to change. Please consult your tax advisor for personalised advice.",
+        "metadata": {
+          "faq_number": 9,
+          "page": 2,
+          "question": "What is the tax treatment on equity mutual fund gains?",
+          "section": "Taxation"
+        }
+      },
+      {
+        "chunk_id": "faq-10-chunk-0",
+        "distance": 0.840973935326872,
+        "text": "FAQ Q10: Will TDS be deducted on mutual fund redemptions?\nSection: Taxation\nAnswer: TDS is not applicable for resident Indian investors on mutual fund redemptions. For NRI investors, TDS is deducted at source at applicable rates \u2014 30% on STCG for equity funds and 20% on LTCG. Form 15G/15H can be submitted by eligible residents for dividend payouts only.",
+        "metadata": {
+          "faq_number": 10,
+          "page": 2,
+          "question": "Will TDS be deducted on mutual fund redemptions?",
+          "section": "Taxation"
+        }
+      },
+      {
+        "chunk_id": "faq-8-chunk-0",
+        "distance": 1.1913273792494408,
+        "text": "FAQ Q8: Can I redeem only a part of my investment?\nSection: Redemption & Payouts\nAnswer: Yes, partial redemption is allowed. You can redeem either a specific number of units or a specific rupee amount. The minimum redemption amount is Rs. 500 or 50 units, whichever is lower, subject to the scheme's exit load policy.",
+        "metadata": {
+          "faq_number": 8,
+          "page": 1,
+          "question": "Can I redeem only a part of my investment?",
+          "section": "Redemption & Payouts"
+        }
+      }
+    ],
+    "model": "llama3.1:8b",
+    "grounded": true
+  },
+  "runtime_seconds": 228.707
+}

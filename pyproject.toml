@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sunrise-amc-faq"
+version = "0.1.0"
+description = "Voice-powered investor support assistant using Faster-Whisper, ChromaDB, sentence-transformers, and Ollama."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "chromadb>=0.5.5,<1.0",
+  "faster-whisper>=1.1.0,<2.0",
+  "pypdf>=5.0.0,<6.0",
+  "sentence-transformers>=3.0.1,<4.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/sunrise_amc_faq/__init__.py
+src/sunrise_amc_faq/cli.py
+src/sunrise_amc_faq/config.py
+src/sunrise_amc_faq/eval.py
+src/sunrise_amc_faq/ingest.py
+src/sunrise_amc_faq/ollama_client.py
+src/sunrise_amc_faq/pipeline.py
+src/sunrise_amc_faq/schemas.py
+src/sunrise_amc_faq/transcribe.py
+src/sunrise_amc_faq/vector_store.py
+src/sunrise_amc_faq.egg-info/PKG-INFO
+src/sunrise_amc_faq.egg-info/SOURCES.txt
+src/sunrise_amc_faq.egg-info/dependency_links.txt
+src/sunrise_amc_faq.egg-info/requires.txt
+src/sunrise_amc_faq.egg-info/top_level.txt
